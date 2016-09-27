@@ -5,6 +5,15 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NcrModM", "NcrModM.vcxproj", "{D6EC57BD-4CDA-4260-9356-D20815FC4718}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alternatives", "Alternatives", "{5455C246-42C3-43FE-9033-6681D197E5CF}"
+	ProjectSection(SolutionItems) = preProject
+		Main.cpp = Main.cpp
+		Main2.cpp = Main2.cpp
+		Main3.cpp = Main3.cpp
+		Main4.cpp = Main4.cpp
+		Main5.cpp = Main5.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
